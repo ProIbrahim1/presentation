@@ -1,0 +1,46 @@
+html{
+    cursor:cell;
+}
+body{
+    background-color: #04131a; 
+    margin: 0px;
+    
+}
+.navbar{
+    border-bottom: 1px solid rgb(172, 255, 244);
+    height: 60px;
+    background-color: #04131a;
+}
+.logopng{
+    /* border-bottom: 1px solid rgb(172, 255, 244); */
+
+    width: 300px;
+}
+.favt{
+    width: 500px;
+}
+.lia{
+    text-decoration:none ;
+    color: #15253f;
+}
+.navbutton{
+    border: 1px solid black;
+    width: auto;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+ li a{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+    left: 1100px;
+    top: -55px;
+    font-family: "Salsa", cursive;
+}
